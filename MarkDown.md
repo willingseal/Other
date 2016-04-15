@@ -34,8 +34,8 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 
 ***
 
- &lt;video width="320" height="240" controls="controls"&gt;
-		&lt;source src="https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov" type="video/mov"&gt;
+ &lt;video width="260" height="480" controls="controls"&gt;
+		&lt;source src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" type="video/mp4"&gt;
 	&lt;/video&gt;
 	
 
