@@ -1,3 +1,14 @@
-- [ ] 首页 Apple Pay 按钮点击无反应
-- [x] 首页单个商品点击详情按钮无反应
-- [x] 本地精选分类 无子分类不展示
+- [ ]   1
+- [x]   2
+- [x]   3
+
+
+
+https://github.com/willingseal/Zero/blob/master/Resources/testee.gif
+
+https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
+
+
+
+
+[](https://github.com/willingseal/Zero/blob/master/Resources/text.gif)
