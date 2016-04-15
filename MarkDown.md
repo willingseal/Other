@@ -32,7 +32,19 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 ![gif](https://github.com/willingseal/Zero/blob/master/Resources/text.gif)
 
 
+
 ***
+
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMjI2MjU3MDMy" frameborder=0 allowfullscreen></iframe>
+
+
+***
+
+<iframe height=260 width=480 src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" frameborder=0 allowfullscreen></iframe>
+
+
+***
+
 
  &lt;video width="260" height="480" controls="controls"&gt;
 		&lt;source src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" type="video/mp4"&gt;
