@@ -41,19 +41,18 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 
 ***
 
-<video width="420" height="340" controls="controls"><br>
+<video width="260" height="480" controls="controls"><br>
 		<source src="https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov" type="video/mp4/mov"><br>
 </video><br><br>
 
 
 
 
-
 ***
 
-<video width="320" height="240" controls="controls"><br>
-		<source src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" type="video/mp4"><br>
-	</video><br><br>
+<video width="260" height="480" controls="controls">
+<br><source src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" type="video/mp4"><br>
+</video><br>
 	
 	
 	
