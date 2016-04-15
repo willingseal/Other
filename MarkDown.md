@@ -4,14 +4,14 @@
 
 
 
-https://github.com/willingseal/Zero/blob/master/Resources/testee.gif
+
 
 https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 
 
 
+![gif](https://github.com/willingseal/Zero/blob/master/Resources/testee.gif)
 
-[](https://github.com/willingseal/Zero/blob/master/Resources/text.gif)
 
 ......
 
