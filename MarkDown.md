@@ -31,6 +31,11 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 
 ![gif](https://github.com/willingseal/Zero/blob/master/Resources/text.gif)
 
+***
+
+试试这个播放音乐的
+
+<embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
 
 ***
