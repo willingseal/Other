@@ -52,8 +52,10 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 ***
 
 <video width="320" height="240" controls="controls"><br>
-		<source src="地址" type="video/mp4"><br>
+		<source src="https://github.com/willingseal/Zero/blob/master/Resources/luzhi.mp4" type="video/mp4"><br>
 	</video><br><br>
 	
-	***
+	
+	
+***
 	
