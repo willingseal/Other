@@ -31,11 +31,19 @@ https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
 
 ![gif](https://github.com/willingseal/Zero/blob/master/Resources/text.gif)
 
+
 ***
+
+ &lt;video width="320" height="240" controls="controls"&gt;
+		&lt;source src="https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov" type="video/mov"&gt;
+	&lt;/video&gt;
+	
+
+***
+
 <video width="420" height="340" controls="controls"><br>
 		<source src="https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov" type="video/mp4/mov"><br>
 </video><br><br>
-
 
 
 
