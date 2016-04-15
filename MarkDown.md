@@ -18,6 +18,9 @@
 
 [github还是可以看看的](http://wiki.jikexueyuan.com/project/github-secret/github-two.html)
 
+[怎样在嵌入图片、音乐、视频？
+](http://zipperary.com/2013/06/27/media-on-hexo/)
+
 
 
 https://github.com/willingseal/Zero/blob/master/Resources/testplayer.mov
